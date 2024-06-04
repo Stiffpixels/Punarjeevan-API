@@ -1,0 +1,1 @@
+insert into Saves (player_save) values ('[{"pos":"20,40", "isSwordEquipped":"true", "currentScene":"Dungeon"}]'), ('[{"pos":"60,70", "isSwordEquipped":"true", "currentScene":"Overworld"}]');
